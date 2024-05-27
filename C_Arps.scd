@@ -14,7 +14,6 @@ SynthDef(\plugin, {
 }).add;
 )
 
-VSTPlugin.search(s, "/Users/davidebaschieri/Desktop/computer music/ProJUCE project/Distortion/Builds/MacOSX/build/Debug");
 
 (
 ~vstBus = Bus.audio(s,2);
